@@ -110,3 +110,5 @@ venv.bak/
 .history/
 .vscode/
 
+# CV image stuff
+.frames/
